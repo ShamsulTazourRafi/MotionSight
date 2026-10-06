@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motion Sight</string>
+    <string name="handheld_mode">Handheld mode</string>
+    <string name="tripod_mode">Tripod mode</string>
+</resources>

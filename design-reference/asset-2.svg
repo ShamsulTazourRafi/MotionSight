@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="signal_wifi_4_bar">
+<mask id="mask0_0_10" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+<rect id="Bounding box" width="30" height="30" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_0_10)">
+<path id="signal_wifi_4_bar_2" d="M15 25.5L0 10.5C1.95833 8.625 4.21875 7.15625 6.78125 6.09375C9.34375 5.03125 12.0833 4.5 15 4.5C17.9167 4.5 20.6563 5.03125 23.2188 6.09375C25.7813 7.15625 28.0417 8.625 30 10.5L15 25.5Z" fill="white"/>
+</g>
+</g>
+</svg>
